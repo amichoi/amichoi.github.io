@@ -1,9 +1,9 @@
 ---
 title: "Galaxy-Mass Correlations on 10 Mpc Scales in the Deep Lens Survey."
 collection: publications
-permalink: /publication/2012-11-Galaxy-Mass-Correlations
+permalink: /publication/2012-11-01-Galaxy-Mass-Correlations
 excerpt: 'Galaxy-galaxy lensing in the Deep Lens Survey.'
-date: 2012-11
+date: 2012-11-01
 venue: 'The Astrophysical Journal'
 paperurl: 'https://arxiv.org/abs/1208.3904'
 citation: 'Choi, A., Tyson, J.~A., Morrison, C.~B., et al.\ 2012, <i>ApJ</i>, 759, 101'
