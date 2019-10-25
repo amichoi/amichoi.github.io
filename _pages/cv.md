@@ -11,30 +11,43 @@ redirect_from:
 
 Education
 ======
-* B.S. in Github, Github University, 2012
-* M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
+* B.A. in Physics with Specialization in Astrophysics, The University of Chicago, 2003
+* B.S. in Mathematics, The University of Chicago, 2003
+* M.S. in Physics, University of California at Davis, 2006
+* Ph.D. in Physics, University of California at Davis, 2011
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Fall 2003 - Fall 2004: Guest Scientist
+  * Fermi National Accelerator Laboratory, Batavia, IL
+  * Duties included: Writing diagnostic software to monitor the Booster Accelerator
+  * Supervisor: Professor Janet Conrad
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+* Fall 2005 - Fall 2011: Graduate Student Researcher
+  * University of California, Davis, CA
+  * Duties included: Weak gravitational lensing analyses
+  * Supervisor: Professor Tony Tyson
+
+* Fall 2011 - Fall 2016: Postdoctoral Researcher
+  * Institute for Astronomy, University of Edinburgh, Scotland, UK
+  * Supervisor: Professor Catherine Heymans
+
+* Fall 2016 - present: CCAPP Fellow
+  * Center for Cosmology and AstroParticle Physics, The Ohio State University, Columbus, OH
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Observing & data reduction software
+* Programming
+  * Proficient with Python, shell script
+  * Experience with C, C++, Java
+  * Can deal with Fortran, Perl, and more if necessary
+* Spoken languages
+  * English (native)
+  * French (intermediate-advanced)
+* Professional development training in:
+  * Management skills
+  * Science communication
 
 Publications
 ======
@@ -56,4 +69,5 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Member of the Deep Lens Survey, the Red Cluster Sequence Lensing Survey (RCSLenS), the Kilo-degree Survey (KiDS), the Dark Energy Survey (DES), the Wide Field Infrared Survey Telescope (WFIRST), the Large Synoptic Survey Telescope Dark Energy Science Collaboration (LSST DESC)
+* Former member of the Euclid Consortium (since moving back to the US in late 2016, due to geographical reasons)
