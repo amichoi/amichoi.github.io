@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate Introductory Physics 7A/B"
 permalink: /teaching/2004-teaching-1
 venue: "University of California at Davis, Physics Department"
-date: 2004-2005
+date: 2004-09-01
 location: "Davis, CA"
 ---
 

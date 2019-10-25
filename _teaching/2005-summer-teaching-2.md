@@ -4,7 +4,7 @@ collection: teaching
 type: "Observing Lab"
 permalink: /teaching/2005-summer-teaching-2
 venue: "University of California at Davis, Physics"
-date: 2005-06
+date: 2005-06-01
 location: "Davis, CA"
 ---
 
