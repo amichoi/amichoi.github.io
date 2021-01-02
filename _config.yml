@@ -81,9 +81,7 @@ analytics:
 author:
   name             : "Ami Choi"
   avatar           : "AmiChoi_osu.jpg"
-  bio              : >
-                    cosmologist at OSU
-  		   pronouns: she/her/hers
+  bio              : "pronouns: she/her/hers"
   location         : "Columbus, Ohio, USA"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=0Yx2f9kAAAAJ&hl=en"
