@@ -40,8 +40,8 @@ Skills
 * Observing & data reduction software
 * Programming
   * Proficient with Python, shell script
-  * Experience with C, C++, Java
-  * Can deal with Fortran, Perl, and more if necessary
+  * Experienced with C, C++, Java
+  * Can maneuver in Fortran, Perl, and more
 * Spoken languages
   * English (native)
   * French (intermediate-advanced)
@@ -69,5 +69,9 @@ Teaching
   
 Service and leadership
 ======
-* Member of the Deep Lens Survey, the Red Cluster Sequence Lensing Survey (RCSLenS), the Kilo-degree Survey (KiDS), the Dark Energy Survey (DES), the Wide Field Infrared Survey Telescope (WFIRST), the Large Synoptic Survey Telescope Dark Energy Science Collaboration (LSST DESC)
-* Former member of the Euclid Consortium (since moving back to the US in late 2016, due to geographical reasons)
+* Member of the Deep Lens Survey, the Red Cluster Sequence Lensing Survey (RCSLenS), the Kilo-degree Survey (KiDS), the Dark Energy Survey (DES), the Wide Field Infrared Survey Telescope (WFIRST), the Large Synoptic Survey Telescope Dark Energy Science Collaboration (LSST DESC), Euclid Consortium (2012-2016 as a UK member, 2020-present as a US member)
+ * In DES, I am a convener of the Weak Lensing Working Group
+* Reviewer for peer-reviewed journals like MNRAS, internally for articles prepared within collaborations like KiDS and DES, and for proposals for observing time
+* Co-organized CCAPP seminars 2017-2018
+* Co-organized CCAPP cosmology journal club 2019-2020
+* Member of OSU Physics APS-IDEA team (2020-present), an initiative from the American Physical Society to create a network through which departments can improve inclusion, diversity, and equity
