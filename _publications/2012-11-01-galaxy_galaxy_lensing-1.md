@@ -2,7 +2,7 @@
 title: "Galaxy-Mass Correlations on 10 Mpc Scales in the Deep Lens Survey"
 collection: publications
 permalink: /publications/2012-11-01-galaxy_galaxy_lensing-1
-excerpt: 'Galaxy-galaxy lensing in the Deep Lens Survey'
+excerpt: 'Galaxy-galaxy lensing in the Deep Lens Survey.'
 date: 2012-11-01
 venue: 'The Astrophysical Journal'
 paperurl: 'https://arxiv.org/abs/1208.3904'
