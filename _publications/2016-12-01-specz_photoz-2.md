@@ -2,7 +2,7 @@
 title: "CFHTLenS and RCSLenS: testing photometric redshift distributions using angular cross-correlations with spectroscopic galaxy surveys"
 collection: publications
 permalink: /publications/2016-12-01-specz_photoz-2
-excerpt: 'spectroscopic and photometric angular cross-clustering'
+excerpt: 'Constraining photometric redshift distributions using spectroscopic and photometric angular cross-clustering.'
 date: 2016-12-01
 venue: 'Monthly Notices of the Royal Astronomical Society'
 paperurl: 'https://arxiv.org/abs/1512.03626'
