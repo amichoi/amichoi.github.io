@@ -10,8 +10,7 @@ locale                   : "en-US"
 title                    : "Ami Choi"
 title_separator          : "-"
 name                     : &name "Ami Choi"
-description              : &description "Postdoctoral Researcher at
-  the Center for Cosmology and Astroparticle Physics"
+description              : &description "Research Scientist at Caltech""
 url                      : https://amichoi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "amichoi/amichoi.github.io"
@@ -81,8 +80,7 @@ analytics:
 author:
   name             : "Ami Choi"
   avatar           : "AmiChoi_osu.jpg"
-  bio              : "Research Scientist"
-  pronouns	   : "she/her/hers"
+  bio              : "Research Scientist, Caltech \n\n pronouns: she/her/hers"
   location         : "Pasadena, California, USA"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=0Yx2f9kAAAAJ&hl=en"
