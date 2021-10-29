@@ -32,9 +32,13 @@ Work experience
   * Institute for Astronomy, University of Edinburgh, Scotland, UK
   * Supervisor: Professor Catherine Heymans
 
-* Fall 2016 - present: CCAPP Fellow
+* Fall 2016 - Fall 2021: CCAPP Fellow
   * Center for Cosmology and AstroParticle Physics, The Ohio State University, Columbus, OH
+  * Supervisors: Professor Chris Hirata, Professor Klaus Honscheid
 
+* Fall 2021 - present: Research Scientist
+  * California Institute of Technology, Pasadena, CA
+  
 Skills
 ======
 * Observing & data reduction software
@@ -49,13 +53,13 @@ Skills
   * Management skills
   * Science communication
 
-Publications
+Selected Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Selected Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
@@ -70,8 +74,8 @@ Teaching
 Service and leadership
 ======
 * Member of the Deep Lens Survey, the Red Cluster Sequence Lensing Survey (RCSLenS), the Kilo-degree Survey (KiDS), the Dark Energy Survey (DES), the Wide Field Infrared Survey Telescope (WFIRST), the Large Synoptic Survey Telescope Dark Energy Science Collaboration (LSST DESC), Euclid Consortium (2012-2016 as a UK member, 2020-present as a US member)
- * In DES, I am a convener of the Weak Lensing Working Group
+ * In DES, I was a convener of the Weak Lensing Working Group (2020-2021)
 * Reviewer for peer-reviewed journals like MNRAS, internally for articles prepared within collaborations like KiDS and DES, and for proposals for observing time
 * Co-organized CCAPP seminars 2017-2018
 * Co-organized CCAPP cosmology journal club 2019-2020
-* Member of OSU Physics APS-IDEA team (2020-present), an initiative from the American Physical Society to create a network through which departments can improve inclusion, diversity, and equity
+* Member of OSU Physics APS-IDEA team (2020-2021), an initiative from the American Physical Society to create a network through which departments can improve inclusion, diversity, and equity. Current member of LSST-DESC APS-IDEA team (2021-present)

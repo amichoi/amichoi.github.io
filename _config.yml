@@ -81,8 +81,9 @@ analytics:
 author:
   name             : "Ami Choi"
   avatar           : "AmiChoi_osu.jpg"
-  bio              : "Postdoctoral Researcher pronouns: she/her/hers"
-  location         : "Columbus, Ohio, USA"
+  bio              : "Research Scientist"
+  pronouns	   : "she/her/hers"
+  location         : "Pasadena, California, USA"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=0Yx2f9kAAAAJ&hl=en"
   email            : "amichoi@gmail.com"
