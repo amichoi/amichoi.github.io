@@ -120,7 +120,7 @@
   font-size: $type-size-5;
 }
 
-.author_pronouns {
+.author__pronouns {
  margin: 0;
 
  @include breakpoint($large) {
