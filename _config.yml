@@ -80,7 +80,8 @@ analytics:
 author:
   name             : "Ami Choi"
   avatar           : "AmiChoi_osu.jpg"
-  bio              : "Research Scientist, Caltech \n\n pronouns: she/her/hers"
+  pronouns	   : "she/her/hers"
+  bio              : "Research Scientist, Caltech"
   location         : "Pasadena, California, USA"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=0Yx2f9kAAAAJ&hl=en"
